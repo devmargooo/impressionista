@@ -1,0 +1,62 @@
+[
+  {
+    "id": 0,
+    "name": "Yellow-red dress",
+    "price": 2000
+  },
+  {
+    "id": 1,
+    "name": "Silk red dress",
+    "price": 2700
+  },
+  {
+    "id": 2,
+    "name": "Lightyellow dress",
+    "price": 2100
+  },
+  {
+    "id": 3,
+    "name": "Lemon dress",
+    "price": 1700
+  },
+  {
+    "id": 4,
+    "name": "Black dress",
+    "price": 1600
+  },
+  {
+    "id": 5,
+    "name": "Blue dress",
+    "price": 1550
+  },
+  {
+    "id": 6,
+    "name": "Green dress",
+    "price": 1750
+  },
+  {
+    "id": 7,
+    "name": "Fuchsia dress",
+    "price": 1850
+  },
+  {
+    "id": 8,
+    "name": "Satin red dress",
+    "price": 1850
+  },
+  {
+    "id": 9,
+    "name": "White dress with rhinestones",
+    "price": 2200
+  },
+  {
+    "id": 10,
+    "name": "White dress with pearl",
+    "price": 2300
+  },
+  {
+    "id": 11,
+    "name": "Flamingo pink dress",
+    "price": 1400
+  }
+]
