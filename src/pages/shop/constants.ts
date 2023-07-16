@@ -1,0 +1,1 @@
+export const DRESSES_URL = process.env.PUBLIC_URL + "/dresses"

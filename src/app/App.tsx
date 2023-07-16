@@ -1,9 +1,10 @@
 import React from 'react';
+import {Shop} from "../pages/shop/Shop";
 
 function App() {
     return (
         <div className="App">
-            <h1>Impressionista</h1>
+            <Shop/>
         </div>
     );
 }

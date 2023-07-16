@@ -1,3 +1,13 @@
 * {
   box-sizing: border-box;
 }
+
+body {
+  background: #111111;
+  color: #AAAAAA;
+}
+
+.App {
+  width: 960px;
+  margin: 0 auto;
+}
