@@ -8,6 +8,7 @@ body {
 }
 
 .App {
-  width: 960px;
+  width: 1360px;
   margin: 0 auto;
+  font-family: -apple-system, sans-serif;
 }

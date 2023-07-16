@@ -10,8 +10,9 @@ export const ShopItem:React.FC<IShopItemProps> = ({dress}) => {
     return  (
         <div className={styles.shopItem}>
             <img src={image_src} className={styles.shopItemImage} alt={dress.name}/>
-            <p>{dress.id}</p>
-            <p>{dress.name}</p>
+            <div className={styles.shopItemInfo}>
+                <p className={styles.price}>{dress.price}$</p>
+            </div>
         </div>
     )
 }
