@@ -2,61 +2,85 @@
   {
     "id": 0,
     "name": "Yellow-red dress",
-    "price": 2000
+    "price": 2000,
+    "dailyDiscountPercent": 5,
+    "maxDiscountPercent": 15
   },
   {
     "id": 1,
     "name": "Silk red dress",
-    "price": 2700
+    "price": 2700,
+    "dailyDiscountPercent": 5,
+    "maxDiscountPercent": 15
   },
   {
     "id": 2,
     "name": "Lightyellow dress",
-    "price": 2100
+    "price": 2100,
+    "dailyDiscountPercent": 5,
+    "maxDiscountPercent": 15
   },
   {
     "id": 3,
     "name": "Lemon dress",
-    "price": 1700
+    "price": 1700,
+    "dailyDiscountPercent": 5,
+    "maxDiscountPercent": 15
   },
   {
     "id": 4,
     "name": "Black dress",
-    "price": 1600
+    "price": 1600,
+    "dailyDiscountPercent": 5,
+    "maxDiscountPercent": 15
   },
   {
     "id": 5,
     "name": "Blue dress",
-    "price": 1550
+    "price": 1550,
+    "dailyDiscountPercent": 5,
+    "maxDiscountPercent": 15
   },
   {
     "id": 6,
     "name": "Green dress",
-    "price": 1750
+    "price": 1750,
+    "dailyDiscountPercent": 5,
+    "maxDiscountPercent": 15
   },
   {
     "id": 7,
     "name": "Fuchsia dress",
-    "price": 1850
+    "price": 1850,
+    "dailyDiscountPercent": 5,
+    "maxDiscountPercent": 15
   },
   {
     "id": 8,
     "name": "Satin red dress",
-    "price": 1850
+    "price": 1850,
+    "dailyDiscountPercent": 5,
+    "maxDiscountPercent": 15
   },
   {
     "id": 9,
     "name": "White dress with rhinestones",
-    "price": 2200
+    "price": 2200,
+    "dailyDiscountPercent": 5,
+    "maxDiscountPercent": 15
   },
   {
     "id": 10,
     "name": "White dress with pearl",
-    "price": 2300
+    "price": 2300,
+    "dailyDiscountPercent": 5,
+    "maxDiscountPercent": 15
   },
   {
     "id": 11,
     "name": "Flamingo pink dress",
-    "price": 1400
+    "price": 1400,
+    "dailyDiscountPercent": 5,
+    "maxDiscountPercent": 15
   }
 ]

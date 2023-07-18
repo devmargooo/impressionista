@@ -33,3 +33,9 @@
     letter-spacing: 1px;
     font-size: 26px;
 }
+
+.old_price {
+    font-size: 20px;
+    margin-right: 10px;
+    font-weight: 100;
+}
